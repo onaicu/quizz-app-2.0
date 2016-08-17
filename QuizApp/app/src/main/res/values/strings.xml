@@ -1,0 +1,32 @@
+<resources>
+    <!-- Title for the application. -->
+    <string name="app_name">Quiz App</string>
+    <!-- 1st Question Title-Radio Group-->
+    <string name="Q1">1.) Is Oerlikon located in Switzerland?</string>
+    <!-- RadioButton Q1 -Answer - true-->
+    <string name="trueQ1">true</string>
+    <!-- RadioButton Q2 -Answer - false -->
+    <string name="falseQ1">false</string>
+    <!-- 2nd Question Title -Checkbox-->
+    <string name="Q2">2.) Schlieren is a municipality in?</string>
+    <!-- Checkbox Q2-1st option-->
+    <string name="q2Answer1">the district of Dietikon</string>
+    <!-- Checkbox Q2-2nd option -->
+    <string name="q2Answer2">canton Zürich</string>
+    <!-- Checkbox Q2-3rd option -->
+    <string name="q2Answer3">canton Aargau</string>
+    <!-- 3rd Question Title -Checkbox-->
+    <string name="Q3">3.) Switzerland is part of?</string>
+    <!-- Checkbox Q3-1st option -->
+    <string name="q3Answer1">European Free Trade Association</string>
+    <!-- Checkbox Q3-2nd option -->
+    <string name="q3Answer2">European Union</string>
+    <!-- Checkbox Q3-3nd option-->
+    <string name="q3Answer3">United Nations</string>
+    <!-- 4th Question Title -EditText -->
+    <string name="Q4">4.) The capital of Switzerland is?</string>
+    <!-- Hint for edit text-->
+    <string name="hintEdit1">e.g. Lucerne</string>
+    <string name="score">Show score!</string>
+
+</resources>
